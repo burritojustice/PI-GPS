@@ -9,7 +9,7 @@ Tangram-ES is a work-in-progress map engine written in C++ and openGL ES 2.0, so
 
 In [this github repository](https://github.com/tangrams/PI-GPS) you will find:
 
-- A 3D-printable model to mount together a: RaspberryPi A+/B+, [Adafruit’s touch HDMI 5’’800x480 ](https://www.adafruit.com/product/2260), [Ultimate GPS Raspberry PI HAT](https://www.adafruit.com/products/2324), [Lithium Ion Batter](https://www.adafruit.com/products/353) and [PowerBoost 1000 Charger](https://www.adafruit.com/products/2465).
+- A 3D-printable model to mount together a RaspberryPi A+/B+, [Adafruit’s touch HDMI 5’’ 800x480 ](https://www.adafruit.com/product/2260), [Ultimate GPS Raspberry PI HAT](https://www.adafruit.com/products/2324), [Lithium Ion Battery](https://www.adafruit.com/products/353) and [PowerBoost 1000 Charger](https://www.adafruit.com/products/2465).
 
 - Source code to run Tangram-es with a nice little graphical interface to move, rotate and zoom a map with a touch-only screen.
 
