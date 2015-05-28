@@ -68,7 +68,7 @@ cd bin
 
 ## Modify Tangram-ES to fetch tiles locally
 
-Getting fast internet access to your RaspberryPi could be a problem, specially if you are planning to use this GPS device on your bicycle. Let’s see what you need to do to download the map tiles locally making your map network-independent.
+Getting fast internet access to your RaspberryPi could be a problem, especially if you are planning to use this GPS device on your bicycle. Let’s see what you need to do to download the map tiles locally making your map network-independent.
 
 We installed Tangram-ES and tested it in the previous section. Now is time for us to make some changes so Tangram-ES will search for local files instead of fetching them from a server.
 
